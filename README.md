@@ -63,6 +63,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2235-add-two-integers](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## String
 |  |
 | ------- |
