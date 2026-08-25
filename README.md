@@ -73,6 +73,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
