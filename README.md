@@ -41,9 +41,18 @@ This repository contains my Java solutions to LeetCode problems.
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
