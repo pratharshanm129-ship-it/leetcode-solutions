@@ -12,6 +12,7 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0066-plus-one](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -55,6 +56,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0066-plus-one) |
 | [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
