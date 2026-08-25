@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0027-remove-element) |
@@ -45,6 +46,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
