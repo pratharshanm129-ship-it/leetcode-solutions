@@ -14,6 +14,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Dynamic Programming
