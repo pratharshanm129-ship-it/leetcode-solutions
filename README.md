@@ -52,6 +52,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
 | ------- |
