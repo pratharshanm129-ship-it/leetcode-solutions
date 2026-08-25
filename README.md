@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -25,6 +26,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -63,4 +65,8 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
