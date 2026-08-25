@@ -13,6 +13,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0137-single-number-ii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -65,6 +66,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
