@@ -42,6 +42,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0011-container-with-most-water](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Hash Table
@@ -88,6 +89,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
