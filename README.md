@@ -36,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -91,6 +93,7 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Bit Manipulation
 |  |
