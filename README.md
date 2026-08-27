@@ -91,6 +91,7 @@ This repository contains my Java solutions to LeetCode problems.
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
@@ -123,4 +124,12 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
