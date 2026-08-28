@@ -47,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
+| [0876-middle-of-the-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,4 +133,8 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
