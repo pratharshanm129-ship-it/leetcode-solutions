@@ -136,5 +136,10 @@ This repository contains my Java solutions to LeetCode problems.
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
