@@ -23,6 +23,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0169-majority-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0169-majority-element) |
 | [0260-single-number-iii](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -46,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems.
 | [0125-valid-palindrome](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
@@ -53,12 +55,14 @@ This repository contains my Java solutions to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0169-majority-element) |
+| [0349-intersection-of-two-arrays](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -120,6 +124,7 @@ This repository contains my Java solutions to LeetCode problems.
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/pratharshanm129-ship-it/leetcode-solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
